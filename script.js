@@ -117,3 +117,12 @@ cursorScale.forEach((link) => {
 
     });
 })
+
+// CURSOR IN/OUT
+
+document.addEventListener('mouseout', function() {
+    cursor.style.visibility = "hidden";
+})
+document.addEventListener('mouseover', function() {
+    cursor.style.visibility = "visible";
+})

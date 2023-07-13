@@ -580,27 +580,27 @@ section {
 }
 
 .bar .html {
-    width: 81%;
+    width: 90%;
 }
 
 .bar .css {
-    width: 77%;
+    width: 85%;
 }
 
 .bar .js {
-    width: 70%;
+    width: 75%;
 }
 
 .bar .react {
-    width: 52%;
+    width: 60%;
 }
 
 .bar .node {
-    width: 52%;
+    width: 60%;
 }
 
 .bar .python {
-    width: 65%;
+    width: 70%;
 }
 
 
@@ -1304,7 +1304,7 @@ section {
         height: 240px;
     }
     .items {
-        height: 260px;
+        height: 270px;
     }
     .contact-container {
         flex-wrap: wrap;
