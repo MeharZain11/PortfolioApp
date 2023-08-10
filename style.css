@@ -1207,7 +1207,7 @@ section {
     .right-about .info-work {
         width: 40%;
         margin: 2rem .75rem;
-        height: 152px;
+        height: 20vh;
     }
     .right-about .info-work p {
         font-weight: 500;
@@ -1304,7 +1304,7 @@ section {
         height: 240px;
     }
     .items {
-        height: 264px;
+        height: 260px;
     }
     .contact-container {
         flex-wrap: wrap;
